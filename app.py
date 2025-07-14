@@ -4,7 +4,7 @@ from form import getTable
 
 app = Flask(__name__)
 
-
+bibaboba=0
 @app.route('/')
 def home():
     algebra=getTable('alg')
