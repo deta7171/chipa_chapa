@@ -17,7 +17,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start; /* Выравнивание по левому краю */
-  background-color: #fff5f5;
+  background-color: rgb(255, 215, 245);
   box-shadow: 0 100px 100px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
   padding: 5px 40px;
@@ -60,7 +60,8 @@
   transform: scale(1.1, 1.1);
 }
 .card {
-  background-color: #f0f0f0;
+  color: black;
+  background-color: rgb(255, 215, 245);
   border-radius: 10px;
   padding: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -114,7 +115,7 @@
 }
 .aboutus {
   margin-top: 50px;
-  background-color: #f0f0f0;
+  background-color: rgb(255, 215, 245);
   border-radius: 16px;
 }
 .aboutus h2 {
@@ -125,6 +126,7 @@
   text-align: left;
 }
 .aboutus p {
+  color: black;
   padding-left: 10px;
   font-size: 22px;
   font-family: Arial, Helvetica, sans-serif;
@@ -155,7 +157,7 @@
 }
 .footer {
   margin-top: 50px;
-  background-color: #f0f0f0;
+  background-color: rgb(255, 215, 245);
   padding: 20px;
   border-radius: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -163,7 +165,7 @@
 }
 .footer p {
   margin: 5px 0;
-  color: #333;
+  color: mediumpurple;
   font-family: Arial, Helvetica, sans-serif;
 }
 .formuls {
@@ -179,7 +181,7 @@
   text-align: center;
 }
 .form {
-  background-color: #f0f0f0;
+  background-color: rgb(255, 215, 245);
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   padding: 20px;
